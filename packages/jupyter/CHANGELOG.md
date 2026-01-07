@@ -1,5 +1,14 @@
 # @myst-theme/jupyter
 
+## 1.0.2
+
+### Patch Changes
+
+- 20e0e66: Fix ID of code cells
+- Updated dependencies [75475f8]
+  - myst-to-react@1.0.2
+  - @myst-theme/providers@1.0.2
+
 ## 1.0.1
 
 ### Patch Changes

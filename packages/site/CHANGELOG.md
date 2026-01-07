@@ -1,5 +1,19 @@
 # @myst-theme/site
 
+## 1.0.2
+
+### Patch Changes
+
+- e783aa6: On static builds, fix sidebar menu not expanding for current page (closes [#635](https://github.com/jupyter-book/mystmd/issues/2288)).
+- Updated dependencies [75475f8]
+  - myst-to-react@1.0.2
+  - @myst-theme/providers@1.0.2
+  - @myst-theme/frontmatter@1.0.2
+  - @myst-theme/diagrams@1.0.2
+  - @myst-theme/common@1.0.2
+  - @myst-theme/search@1.0.2
+  - myst-demo@1.0.2
+
 ## 1.0.1
 
 ### Patch Changes
